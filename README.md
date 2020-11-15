@@ -60,5 +60,4 @@ Deploy the generated war file on the Tomcat server. The application can be acces
 
 ![pic0](https://user-images.githubusercontent.com/56262858/99199945-6a7dac80-279a-11eb-9c46-fc98fcb03563.png)
 
-
-![pic1](https://user-images.githubusercontent.com/56262858/99199952-78cbc880-279a-11eb-97fe-ce7afb24bf9e.png)
+![Capture1](https://user-images.githubusercontent.com/56262858/99200063-1de6a100-279b-11eb-8b2d-bcad78ca3dab.PNG)
