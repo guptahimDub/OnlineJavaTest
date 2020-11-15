@@ -1,0 +1,85 @@
+/* Below line is used for online Google font */
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+h2{
+    text-align: center;
+    font-size: 24px;
+}
+hr{
+    margin-bottom: 30px;
+}
+div.container{
+    width: 800px;
+    height: 500px;
+    margin:45px auto;
+    font-family: 'Droid Serif', serif;
+    position:relative;
+}
+div.main{
+    width: 320px;
+    float:left;
+    padding: 10px 55px 40px;
+    border: 15px solid white;
+    border-radius: 2px;
+    font-size: 13px;
+}
+input[type=text],[type=password] {
+    width: 97.7%;
+    height: 40px;
+    padding-left: 6px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 2px solid #f69d3c;
+    color: #4f4f4f;
+    font-size: 16px;
+}
+label{
+    color: #464646;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 16px;
+    font-weight: bold;
+}
+#login {
+    background: linear-gradient(#f69d3c, #561423);
+    border: 1px solid black;
+    font-size: 15px;
+	width: 120px;
+    margin-top: 12px;
+    padding: 10px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+	margin-left: 27px;
+
+}
+#createuser {
+    background: linear-gradient(#f69d3c, #561423); 
+    border: 1px solid black;
+    font-size: 15px;
+    margin-top: 12px;
+    padding: 10px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+	width: 120px;
+	margin-left: 27px;
+
+}
+#register {
+	display: block;
+    background: linear-gradient(#f69d3c, #561423); 
+    border: 1px solid black;
+    font-size: 15px;
+    margin-top: 12px;
+    padding: 10px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+	width: 160px;
+	margin-right: 50px;
+	margin-left: 80px;
+
+}
+#login:hover{
+    background: linear-gradient(#f69d3c, #561423);
+}
+
