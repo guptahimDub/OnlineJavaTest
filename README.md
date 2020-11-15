@@ -47,7 +47,7 @@ A TODO list is web application to track the day to day tasks of users.
 
 3. war file will be created under the target folder - client\target\onlineTodoList.war
 
-##Usage
+## Usage
 Deploy the generated war file on the Tomcat server. The application can be accessible using the below URL.
 
 `http://localhost:8080/onlineTodoList/`
