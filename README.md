@@ -1,8 +1,8 @@
-## OnlineJavaTest
+# OnlineJavaTest
 
-# Supported Functionalities
-•	Registration of new users.
-•	Login for existing users.  
+## Supported Functionalities
+-	Registration of new users.
+-	Login for existing users.  
 •	Validation and hence present the message when incorrect information is provided.
 •	Add Task and Remove Task.
 •	Supports the checking/unchecking of tasks.
