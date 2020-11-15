@@ -1,4 +1,4 @@
-# OnlineJavaTest
+## OnlineJavaTest
 
 # Supported Functionalities
 •	Registration of new users.
