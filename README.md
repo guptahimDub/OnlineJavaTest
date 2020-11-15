@@ -31,8 +31,8 @@ A TODO list is web application to track the day to day tasks of users.
 - Maven
 
 ## Installation Steps
-1. Clone the git repository.
-2. JavaProject consists of two folder server (server-side code) and client (client-side code).
+1. Clone the Git Repository.
+2. `JavaProject` consists of two folders i.e. server (server-side code) and client (client-side code).
 3. Build the project using Maven.
 
 ## Build Projects
@@ -45,7 +45,7 @@ A TODO list is web application to track the day to day tasks of users.
 
 `mvn clean install` - under JavaProject/client
 
-3. war file will be created under the target folder - client\target\onlineTodoList.war
+3. The `war` file will be created under the target folder - client\target\onlineTodoList.war
 
 ## Usage
 Deploy the generated war file on the Tomcat server. The application can be accessible using the below URL.
