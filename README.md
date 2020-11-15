@@ -14,7 +14,7 @@ A TODO list is web application to track the day to day tasks of users.
 - The user’s information gets stored in an in-memory H2 database (UserInfo and TaskInfo tables).
  
 
-### Prerequisites
+## Prerequisites
 - [Java 8]
 - [Lombok Java Library]
 - [Tomcat 8.5] 
