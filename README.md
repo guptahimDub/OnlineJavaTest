@@ -61,3 +61,6 @@ Deploy the generated war file on the Tomcat server. The application can be acces
 ![pic0](https://user-images.githubusercontent.com/56262858/99199945-6a7dac80-279a-11eb-9c46-fc98fcb03563.png)
 
 ![Capture1](https://user-images.githubusercontent.com/56262858/99200063-1de6a100-279b-11eb-8b2d-bcad78ca3dab.PNG)
+
+5. When no input is provided and Click to Add button is pressed.
+![Validation Error](https://user-images.githubusercontent.com/56262858/99200952-605eac80-27a0-11eb-999c-7f708940185e.PNG)
