@@ -1,7 +1,7 @@
 # OnlineJavaTest
 
 ### This repository consists of below 4 files:
-- `ToDOList_Report_HimanshuGupta.pdf` (write-up) - Technology used, design pattern, enhancements, etc. 
+- `ToDOList_Report_HimanshuGupta.pdf` (write-up) - Technologies(approaches) used, design pattern, unit test, enhancements, etc. 
 - `JavaProject` - Consists of two folders representing server-side code (server folder) and client-side code (client folder).
 - `War` file - Consists of a final project file, which can be deployed on the Tomcat server.
 - `Readme` file - All the application details with instructions are included in this file.
