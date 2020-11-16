@@ -1,5 +1,11 @@
 # OnlineJavaTest
 
+### This repository consist of 4 files:
+- ToDOList_Report_HimanshuGupta (write-up) - Technology used, design pattern, enhancements, etc. 
+- JavaProject - Consists of two folders representing server-side code (server folder) and client-side code (client folder).
+- War file - Consists of a final project file, which can be deployed on the Tomcat server.
+- Readme file - All the application details with instructions are included in this file.
+
 ## ToDoList Application
 A TODO list is web application to track the day to day tasks of users.
 
